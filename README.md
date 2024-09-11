@@ -10,7 +10,7 @@ This Note-Taking App is a fully functional web application that allows users to 
 - Note creation and management (CRUD functionality).
 - Data storage using MongoDB.
 - Secure password management with Passport.js.
-- Responsive and user-friendly design.
+  user-friendly design.
 - Full back-end server functionality with Express.js and Node.js.
 - Real-time development support with Nodemon.
 
